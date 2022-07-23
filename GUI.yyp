@@ -20,6 +20,7 @@
     {"id":{"name":"scGetInputReleased","path":"scripts/scGetInputReleased/scGetInputReleased.yy",},"order":6,},
     {"id":{"name":"sLine","path":"sprites/sLine/sLine.yy",},"order":3,},
     {"id":{"name":"sDDV","path":"sprites/sDDV/sDDV.yy",},"order":5,},
+    {"id":{"name":"oCheckbox","path":"objects/oCheckbox/oCheckbox.yy",},"order":10,},
     {"id":{"name":"oMSBox","path":"objects/oMSBox/oMSBox.yy",},"order":4,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"scGetInputPressed","path":"scripts/scGetInputPressed/scGetInputPressed.yy",},"order":5,},
